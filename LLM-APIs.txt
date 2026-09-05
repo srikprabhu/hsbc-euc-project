@@ -1,0 +1,6 @@
+GEMINI_API_KEY_1= AQ.Ab8RN6Lp36AA9bywMuqIBup2Wklj71BEsv4ns1DqsAw4pgoXrQ
+GEMINI_API_KEY_2= AQ.Ab8RN6JpXehDvFO_meQ9DkwEAkAneWz2fRVgEiAt9EmLuKzj7A
+#
+ 
+GEMINI_MODEL_1=gemini-3.6-flash
+GEMINI_MODEL_2=gemini-3.6-flash
